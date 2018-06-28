@@ -13,7 +13,7 @@ A Clone with more features than the original site. This project takes content an
 - [Alternatives to Ejecting](#alternatives-to-ejecting)
 - [Something Missing?](#something-missing)
 
-## Project Component Structore
+## Project Component Structure
 
 ```js
 <img src='' alt='' />
